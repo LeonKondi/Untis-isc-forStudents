@@ -1,0 +1,9 @@
+{
+    "server_url": "DEINE_SCHUL_URL.webuntis.com",
+    "school": "DEINE_SCHULE",
+    "username": "DEIN_BENUTZERNAME_HIER",
+    "password": "DEIN_PASSWORT_HIER",
+    "class_name": "DEINE_KLASSE",
+    "interval_seconds": 900,
+    "port": 80
+}

@@ -1,0 +1,6 @@
+config.json
+untis-server.py
+untis_history.json
+__pycache__/
+*.pyc
+

@@ -100,6 +100,7 @@ Wir richten den Pi so ein, dass er den Server automatisch startet, sobald er Str
   [Service]
   User=root
   Group=root
+  ExecStartPre=/bin/sleep 60
   WorkingDirectory=/home/DEIN_USER/Desktop/Untis-isc-forStudents
   ExecStart=/usr/bin/python3 /home/DEIN_USER/Desktop/Untis-isc-forStudents/untis-server.py
   Restart=always
